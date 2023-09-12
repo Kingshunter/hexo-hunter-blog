@@ -119,6 +119,3 @@ algolia:
     - title
   debug: false
   concurrent: 2
-
-
-
