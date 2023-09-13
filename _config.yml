@@ -120,5 +120,3 @@ algolia:
   debug: false
   concurrent: 2
 
-
-
