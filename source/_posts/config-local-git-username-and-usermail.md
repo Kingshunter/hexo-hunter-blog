@@ -4,8 +4,9 @@ date: 2023-09-13 09:37:15
 tags: Git
 categories: Git
 excerpt: 本地git配置
-
 ---
+
+{% asset_img 84806f2bccb0466e82280b7fc48e2cd8.jpg This is an example image %}
 
 要使用git，需要配置用户名和邮箱<span style="color:red;">（邮箱可以不配置）</span>。  
 
@@ -30,6 +31,4 @@ git config --global user.name test
 # 这里配置邮箱是test@mail.com
 git config --global user.email test@mail.com
 ```
-
-
 
